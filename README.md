@@ -9,3 +9,5 @@
 ✅ 实现 @formily/react
 
 ✅ 实现 @formily/antd
+
+✅ 实现 @formily/path
