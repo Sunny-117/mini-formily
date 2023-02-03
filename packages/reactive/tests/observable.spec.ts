@@ -2,12 +2,7 @@ import { test, expect } from "vitest";
 import { observable } from "../observable";
 test("array mutation", () => {
   const arr = observable([1, 2, 3, 4]);
-  console.log(
-    arr,
-    "================================================================"
-  );
   arr.splice(2, 1);
-  console.log(arr, "=====");
   expect(arr).toEqual([1, 2, 4]);
 });
 
