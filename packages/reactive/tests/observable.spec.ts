@@ -6,7 +6,7 @@ test("array mutation", () => {
   expect(arr).toEqual([1, 2, 4]);
 });
 
-// test('observable contains', () => {
+test("observable contains", () => {});
 //   const subElement = { cc: 333 }
 //   const element = { aa: subElement }
 //   const arr = observable<any[]>([element, 2, 3, 4])
