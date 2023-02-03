@@ -1,5 +1,13 @@
 # mini-formily
 
+# Feature
+
+- TypeScript
+
+- Vitest
+
+# Packages
+
 ✅ 实现 @formily/reactive
 
 ✅ 实现 @formily/reactive-react
